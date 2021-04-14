@@ -1,3 +1,19 @@
+# Problem statement
+
+**Đề bài**: Viết chương trình tính chỉ số BMI của người dùng và in kết quả lên màn hình. <br/>
+**Problem**: Write a program to calculate the user's BMI and print the results on the screen.
+
+**Input**: 50 160
+**Output**: "Normal"
+
+
+**Input**: 80 165
+**Output**: "Obese"
+
+
+**Input**: 40 181
+**Output**: "Thin"
+
 # Instructions
 
 ## Setup
